@@ -123,10 +123,3 @@ Instead of trying every combination, it:
 | Regression     | Tuned Random Forest      | R² Score ≈ 81.41% |
 
 ---
-
-##  What I Learned
-
-- How to apply different ML models to classification and regression problems  
-- Importance of model evaluation using task-specific metrics  
-- That **tuning hyperparameters is often as important as the model choice**  
-- Practical use of `GridSearchCV` and `RandomizedSearchCV` to squeeze the best out of models
