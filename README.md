@@ -6,6 +6,14 @@ This repository showcases a hands-on machine learning project focused on:
 ✅ Evaluating them using real-world metrics  
 ✅ Optimizing their performance using hyperparameter tuning
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+
 As a Machine Learning enthusiast, this project is part of my ongoing learning journey to better understand how different algorithms perform on **classification** and **regression** tasks.
 
 <p align="center">
